@@ -1,0 +1,14 @@
+{
+    "title": "Termux API Integration",
+    "config": {
+      "step": {
+        "user": {
+          "title": "Termux API Integration",
+          "description": "Do you want setup this integration?"
+        }
+      },
+      "abort": {
+        "single_instance_allowed": "Integration already setup"
+      }
+    }
+}
