@@ -20,7 +20,7 @@ class CameraCoordinator(DataUpdateCoordinator):
     data: list[CameraDto]
 
     _placeholder_path: str = (
-        f"{os.environ['HOME']}/.homeassistant/photos/placeholder.jpg"  # CHANGE THIS
+        f"{os.environ['HOME']}/.homeassistant/custom_components/termux_api/placeholder.jpg"
     )
 
     def __init__(self, hass: HomeAssistant, api: TermuxAPI) -> None:
