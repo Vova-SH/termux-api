@@ -1,10 +1,12 @@
 {
-  "domain": "termux_api",
-  "name": "Termux API integration",
-  "config_flow": true,
-  "documentation": "https://github.com/Vova-SH/termux-api",
-  "issue_tracker": "https://github.com/Vova-SH/termux-api/issues",
-  "codeowners": ["@Vova-SH"],
-  "iot_class": "local_polling",
-  "version": "1.0.0"
+	"domain": "termux_api",
+	"name": "Termux API integration",
+	"codeowners": [
+		"@Vova-SH"
+	],
+	"config_flow": true,
+	"documentation": "https://github.com/Vova-SH/termux-api",
+	"iot_class": "local_polling",
+	"issue_tracker": "https://github.com/Vova-SH/termux-api/issues",
+	"version": "1.0.0"
 }
