@@ -12,7 +12,7 @@
 
 This component allows, when running Home Assistant on Android via [Termux](https://termux.dev), to display various metrics through [Termux:API](https://wiki.termux.com/wiki/Termux:API).
 
-## Минимальные требования для работы компонента
+## Minimum requirements for the component to work
 
 * Home Assistant running inside Termux
 * Termux:API package installed (`pkg install termux-api`)
