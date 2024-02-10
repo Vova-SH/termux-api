@@ -6,7 +6,7 @@
 
 # Компонент Termux API Integration для Home Assistant
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 [![release version](https://img.shields.io/github/release/Vova-SH/termux-api/all.svg)](https://github.com/Vova-SH/termux-api/releases)
 [![maintainer](https://img.shields.io/badge/maintainer-%40Vova--SH-green)](https://github.com/Vova-SH)
 
